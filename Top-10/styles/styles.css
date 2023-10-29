@@ -1,0 +1,60 @@
+h1 {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: white;
+    text-align: center;
+    background-color: rgb(43, 43, 43);
+}
+
+.body {
+    background-color: black;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.carousel {
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+.center {
+    text-align: center;
+}
+
+.src {
+    float: left;
+    width: 750px;
+    height: 500px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-left: 15px;
+}
+
+.flexMe {
+    text-align: right;
+    color: white;
+}
+
+.align {
+    display: flex;
+    text-align: end;
+    padding-left: 50%;
+}
+
+p {
+    font-size: 30px;
+}
+
+.text {
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-left: 770px;
+    margin-right: 50px;
+    padding-bottom: 140px;
+    background-color: lightgray;
+}
